@@ -1,2 +1,1 @@
-# prep-curso-henry
-repositorio del modulo 2
+prueba de como crear un repositorio y clonarlo desde github en la computadora
